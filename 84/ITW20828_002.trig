@@ -13,7 +13,7 @@
 
 bdg:ITW20828_002 {
     bdr:ITW20828_002  a     :Item ;
-        :itemCopies         "1" ;
+        :itemCopies         "0" ;
         :itemForInstance    bdr:MW20828 ;
         :itemLibrary        bdr:G1TLMTGA000001 ;
         :itemShelf          "ཚ|༢|||001397" , "ཚ|༢|||001398" , "ཚ|༢|||001399" .

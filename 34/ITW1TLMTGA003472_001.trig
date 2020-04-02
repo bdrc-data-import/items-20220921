@@ -1,4 +1,4 @@
-@base          <bdg:ITW20828_001> .
+@base          <bdg:ITW1TLMTGA003472_001> .
 @prefix :      <http://purl.bdrc.io/ontology/core/> .
 @prefix adm:   <http://purl.bdrc.io/ontology/admin/> .
 @prefix bda:   <http://purl.bdrc.io/admindata/> .
@@ -11,10 +11,11 @@
 @prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
 @prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
 
-bdg:ITW20828_001 {
-    bdr:ITW20828_001  a     :Item ;
-        :itemCopies         "0" ;
-        :itemForInstance    bdr:MW20828 ;
+bdg:ITW1TLMTGA003472_001 {
+    bdr:ITW1TLMTGA003472_001
+        a                   :Item ;
+        :itemCopies         "1" ;
+        :itemForInstance    bdr:MW1TLMTGA003472 ;
         :itemLibrary        bdr:G1TLMTGA000001 ;
-        :itemShelf          "ཚ|༢|||001397" , "ཚ|༢|||001398" , "ཚ|༢|||001399" .
+        :itemShelf          "ཀ|༡|||004845" .
 }

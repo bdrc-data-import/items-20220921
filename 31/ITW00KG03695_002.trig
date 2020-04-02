@@ -14,7 +14,7 @@
 bdg:ITW00KG03695_002 {
     bdr:ITW00KG03695_002
         a                   :Item ;
-        :itemCopies         "1" ;
+        :itemCopies         "0" ;
         :itemForInstance    bdr:MW00KG03695 ;
         :itemLibrary        bdr:G1TLMTGA000001 ;
         :itemShelf          "ཉ|༥|||000757" , "ཉ|༥|||000758" , "ཉ|༥|||000759" .

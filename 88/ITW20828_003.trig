@@ -13,7 +13,8 @@
 
 bdg:ITW20828_003 {
     bdr:ITW20828_003  a     :Item ;
-        :itemCopies         "1" ;
+        :itemCopies         "0" ;
+        :itemException      "test/"@bo-x-ewts ;
         :itemForInstance    bdr:MW20828 ;
         :itemLibrary        bdr:G1TLMTGA000001 ;
         :itemShelf          "ཚ|༢|||001397" , "ཚ|༢|||001398" , "ཚ|༢|||001399" .
