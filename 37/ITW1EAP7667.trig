@@ -3,6 +3,7 @@
 @prefix bda:   <http://purl.bdrc.io/admindata/> .
 @prefix bdg:   <http://purl.bdrc.io/graph/> .
 @prefix bdr:   <http://purl.bdrc.io/resource/> .
+@prefix bdu:   <http://purl.bdrc.io/resource-nc/user/> .
 @prefix owl:   <http://www.w3.org/2002/07/owl#> .
 @prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
@@ -18,7 +19,7 @@ bdg:ITW1EAP7667 {
     
     bdr:ITW1EAP7667  a      :Item ;
         :itemForInstance    bdr:MW1EAP7667 ;
-        :itemHasVolume      bdr:VL04C93114352E4D35 ;
+        :itemHasVolume      bdr:VL11D1B7AC963F76F1 ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "2A|7667" .
 }
