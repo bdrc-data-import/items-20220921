@@ -19,7 +19,7 @@ bdg:ITW1FPL8145 {
     
     bdr:ITW1FPL8145  a      :Item ;
         :itemForInstance    bdr:MW1FPL8145 ;
-        :itemHasVolume      bdr:VLCCD9CF05B86EE004 ;
+        :itemHasVolume      bdr:VL8AD55737BF211234 ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "2A|8145" .
 }

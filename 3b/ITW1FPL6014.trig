@@ -19,7 +19,7 @@ bdg:ITW1FPL6014 {
     
     bdr:ITW1FPL6014  a      :Item ;
         :itemForInstance    bdr:MW1FPL6014 ;
-        :itemHasVolume      bdr:VL102B72EFF2694258 ;
+        :itemHasVolume      bdr:VL45DED2E3D808D39C ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "2B|6014" .
 }

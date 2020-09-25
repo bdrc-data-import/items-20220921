@@ -19,7 +19,7 @@ bdg:ITW1FPL395 {
     
     bdr:ITW1FPL395  a       :Item ;
         :itemForInstance    bdr:MW1FPL395 ;
-        :itemHasVolume      bdr:VL281B5991DBEF95CB ;
+        :itemHasVolume      bdr:VL539A59D97F664CC3 ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "3A|395" .
 }

@@ -19,7 +19,7 @@ bdg:ITW1FPL1006 {
     
     bdr:ITW1FPL1006  a      :Item ;
         :itemForInstance    bdr:MW1FPL1006 ;
-        :itemHasVolume      bdr:VLF4DE9BFB36FF0A44 ;
+        :itemHasVolume      bdr:VLED8E87CF6CEC56FD ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "3A|1006" .
 }

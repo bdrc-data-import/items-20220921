@@ -19,7 +19,7 @@ bdg:ITW1FPL7959 {
     
     bdr:ITW1FPL7959  a      :Item ;
         :itemForInstance    bdr:MW1FPL7959 ;
-        :itemHasVolume      bdr:VL41A01C78336F7163 ;
+        :itemHasVolume      bdr:VL6A3FEF7C587A7BC6 ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "2A|7959" .
 }

@@ -19,7 +19,7 @@ bdg:ITW1FPL3182 {
     
     bdr:ITW1FPL3182  a      :Item ;
         :itemForInstance    bdr:MW1FPL3182 ;
-        :itemHasVolume      bdr:VLC12BE877B19B166E ;
+        :itemHasVolume      bdr:VLE7934A7233CD8B61 ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "3B|3182" .
 }

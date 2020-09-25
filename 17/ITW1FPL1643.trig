@@ -19,7 +19,7 @@ bdg:ITW1FPL1643 {
     
     bdr:ITW1FPL1643  a      :Item ;
         :itemForInstance    bdr:MW1FPL1643 ;
-        :itemHasVolume      bdr:VLA6F383141FF1415E ;
+        :itemHasVolume      bdr:VLC7BAAF2BFEB94CFE ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "3A|1643" .
 }

@@ -19,7 +19,7 @@ bdg:ITW1FPL309 {
     
     bdr:ITW1FPL309  a       :Item ;
         :itemForInstance    bdr:MW1FPL309 ;
-        :itemHasVolume      bdr:VLAC6B901D45A11321 ;
+        :itemHasVolume      bdr:VLED0777EEA8FB9CE8 ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "3A|309" .
 }

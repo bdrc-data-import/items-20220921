@@ -19,7 +19,7 @@ bdg:ITW1FPL9638 {
     
     bdr:ITW1FPL9638  a      :Item ;
         :itemForInstance    bdr:MW1FPL9638 ;
-        :itemHasVolume      bdr:VLFECBCCC2E1608867 ;
+        :itemHasVolume      bdr:VL8DCB45BAB866AAE5 ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "2A|9638" .
 }

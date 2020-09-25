@@ -19,7 +19,7 @@ bdg:ITW1FPL3941 {
     
     bdr:ITW1FPL3941  a      :Item ;
         :itemForInstance    bdr:MW1FPL3941 ;
-        :itemHasVolume      bdr:VL5D307CA6E853116A ;
+        :itemHasVolume      bdr:VL29BBDC58162A4697 ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "2D|3941" .
 }

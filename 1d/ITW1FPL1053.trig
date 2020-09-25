@@ -19,7 +19,7 @@ bdg:ITW1FPL1053 {
     
     bdr:ITW1FPL1053  a      :Item ;
         :itemForInstance    bdr:MW1FPL1053 ;
-        :itemHasVolume      bdr:VLC3AA216229716AA4 ;
+        :itemHasVolume      bdr:VLEB9A1F0DFA9C5785 ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "3A|1053" .
 }

@@ -19,7 +19,7 @@ bdg:ITW1FPL818 {
     
     bdr:ITW1FPL818  a       :Item ;
         :itemForInstance    bdr:MW1FPL818 ;
-        :itemHasVolume      bdr:VL5F32F102F747CECF ;
+        :itemHasVolume      bdr:VL8FC3C0FFA91B3649 ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "3A|818" .
 }

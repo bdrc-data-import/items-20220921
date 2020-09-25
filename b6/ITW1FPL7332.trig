@@ -19,7 +19,7 @@ bdg:ITW1FPL7332 {
     
     bdr:ITW1FPL7332  a      :Item ;
         :itemForInstance    bdr:MW1FPL7332 ;
-        :itemHasVolume      bdr:VLE388C28F549D86FF ;
+        :itemHasVolume      bdr:VLEDF088AECFB41DEA ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "2A|7332" .
 }

@@ -19,7 +19,7 @@ bdg:ITW1FPL10404 {
     
     bdr:ITW1FPL10404  a     :Item ;
         :itemForInstance    bdr:MW1FPL10404 ;
-        :itemHasVolume      bdr:VLE38EB1D4BAE35CF8 ;
+        :itemHasVolume      bdr:VLB12DFFF27685C995 ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "GF|10404" .
 }

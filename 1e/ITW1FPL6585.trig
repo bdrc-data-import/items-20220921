@@ -19,7 +19,7 @@ bdg:ITW1FPL6585 {
     
     bdr:ITW1FPL6585  a      :Item ;
         :itemForInstance    bdr:MW1FPL6585 ;
-        :itemHasVolume      bdr:VL88A78D80B66CC5BF ;
+        :itemHasVolume      bdr:VL6FAD5E2B9F8127A0 ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "2B|6585" .
 }

@@ -19,7 +19,7 @@ bdg:ITW1FPL380 {
     
     bdr:ITW1FPL380  a       :Item ;
         :itemForInstance    bdr:MW1FPL380 ;
-        :itemHasVolume      bdr:VL47883E09D735EC03 ;
+        :itemHasVolume      bdr:VLD60857C088B111A0 ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "3A|380" .
 }

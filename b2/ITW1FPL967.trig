@@ -19,7 +19,7 @@ bdg:ITW1FPL967 {
     
     bdr:ITW1FPL967  a       :Item ;
         :itemForInstance    bdr:MW1FPL967 ;
-        :itemHasVolume      bdr:VL6CCFCDBFDAD56477 ;
+        :itemHasVolume      bdr:VLAA450F7CD4E640AA ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "3A|967" .
 }

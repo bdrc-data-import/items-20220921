@@ -19,7 +19,7 @@ bdg:ITW1FPL8220 {
     
     bdr:ITW1FPL8220  a      :Item ;
         :itemForInstance    bdr:MW1FPL8220 ;
-        :itemHasVolume      bdr:VL0DEDEA5303410E5A ;
+        :itemHasVolume      bdr:VL5121BF613DE5D6BE ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "2A|8220" .
 }

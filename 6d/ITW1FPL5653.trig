@@ -19,7 +19,7 @@ bdg:ITW1FPL5653 {
     
     bdr:ITW1FPL5653  a      :Item ;
         :itemForInstance    bdr:MW1FPL5653 ;
-        :itemHasVolume      bdr:VLD22165D984CECA49 ;
+        :itemHasVolume      bdr:VLB0DA1FBE3A657AFD ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "2B|5653" .
 }

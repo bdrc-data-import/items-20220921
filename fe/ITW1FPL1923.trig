@@ -19,7 +19,7 @@ bdg:ITW1FPL1923 {
     
     bdr:ITW1FPL1923  a      :Item ;
         :itemForInstance    bdr:MW1FPL1923 ;
-        :itemHasVolume      bdr:VLD6D4790EA8C9C7DC ;
+        :itemHasVolume      bdr:VL760E291927B5934E ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "|1923" .
 }

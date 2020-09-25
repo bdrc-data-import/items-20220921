@@ -19,7 +19,7 @@ bdg:ITW1FPL2017 {
     
     bdr:ITW1FPL2017  a      :Item ;
         :itemForInstance    bdr:MW1FPL2017 ;
-        :itemHasVolume      bdr:VLAB79398E6291C070 ;
+        :itemHasVolume      bdr:VLF9F37F2AAADE3EFB ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "3A|2017" .
 }

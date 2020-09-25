@@ -19,7 +19,7 @@ bdg:ITW1FPL8008 {
     
     bdr:ITW1FPL8008  a      :Item ;
         :itemForInstance    bdr:MW1FPL8008 ;
-        :itemHasVolume      bdr:VLB4EB8D4BD53B5B03 ;
+        :itemHasVolume      bdr:VL02F9561D9EB6B690 ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "2A|8008" .
 }

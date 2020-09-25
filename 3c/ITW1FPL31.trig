@@ -19,7 +19,7 @@ bdg:ITW1FPL31 {
     
     bdr:ITW1FPL31  a        :Item ;
         :itemForInstance    bdr:MW1FPL31 ;
-        :itemHasVolume      bdr:VL66E46736F4FC4529 ;
+        :itemHasVolume      bdr:VL8ED1FB9FD14CFB87 ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "3A|31" .
 }

@@ -19,7 +19,7 @@ bdg:ITW1FPL632 {
     
     bdr:ITW1FPL632  a       :Item ;
         :itemForInstance    bdr:MW1FPL632 ;
-        :itemHasVolume      bdr:VLE49BB2138E4195D2 ;
+        :itemHasVolume      bdr:VL204BFDBC05546AB2 ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "3A|632" .
 }

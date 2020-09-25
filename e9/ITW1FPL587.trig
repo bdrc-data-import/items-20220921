@@ -19,7 +19,7 @@ bdg:ITW1FPL587 {
     
     bdr:ITW1FPL587  a       :Item ;
         :itemForInstance    bdr:MW1FPL587 ;
-        :itemHasVolume      bdr:VL054E0EC2CC0B0805 ;
+        :itemHasVolume      bdr:VLC205410E26B715C9 ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "3A|587" .
 }

@@ -19,7 +19,7 @@ bdg:ITW1FPL210 {
     
     bdr:ITW1FPL210  a       :Item ;
         :itemForInstance    bdr:MW1FPL210 ;
-        :itemHasVolume      bdr:VLD9C6141B806AE139 ;
+        :itemHasVolume      bdr:VL0558E8A3EFB235AC ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "3A|210" .
 }

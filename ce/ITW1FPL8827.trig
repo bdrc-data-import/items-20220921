@@ -19,7 +19,7 @@ bdg:ITW1FPL8827 {
     
     bdr:ITW1FPL8827  a      :Item ;
         :itemForInstance    bdr:MW1FPL8827 ;
-        :itemHasVolume      bdr:VL70AD4B61C6D78DCD ;
+        :itemHasVolume      bdr:VLF5F3BF4815E67363 ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "2A|8827" .
 }

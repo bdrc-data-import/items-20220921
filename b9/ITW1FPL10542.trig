@@ -19,7 +19,7 @@ bdg:ITW1FPL10542 {
     
     bdr:ITW1FPL10542  a     :Item ;
         :itemForInstance    bdr:MW1FPL10542 ;
-        :itemHasVolume      bdr:VL7062979D4D17720B ;
+        :itemHasVolume      bdr:VLCBFFB20C4105FB7A ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "GF|10542" .
 }

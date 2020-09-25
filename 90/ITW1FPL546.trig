@@ -19,7 +19,7 @@ bdg:ITW1FPL546 {
     
     bdr:ITW1FPL546  a       :Item ;
         :itemForInstance    bdr:MW1FPL546 ;
-        :itemHasVolume      bdr:VLA5D92A50144F11A0 ;
+        :itemHasVolume      bdr:VL5750E747DEE53EA8 ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "3A|546" .
 }

@@ -19,7 +19,7 @@ bdg:ITW1FPL529 {
     
     bdr:ITW1FPL529  a       :Item ;
         :itemForInstance    bdr:MW1FPL529 ;
-        :itemHasVolume      bdr:VL1C48C2B626AB78E4 ;
+        :itemHasVolume      bdr:VLFC2F0E7AB0F67770 ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "3A|529" .
 }

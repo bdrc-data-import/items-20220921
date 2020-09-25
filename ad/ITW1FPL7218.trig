@@ -19,7 +19,7 @@ bdg:ITW1FPL7218 {
     
     bdr:ITW1FPL7218  a      :Item ;
         :itemForInstance    bdr:MW1FPL7218 ;
-        :itemHasVolume      bdr:VL72D37F2FAD7F0100 ;
+        :itemHasVolume      bdr:VL72408B7C130E5B20 ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "2B|7218" .
 }

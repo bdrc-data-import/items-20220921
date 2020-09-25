@@ -19,7 +19,7 @@ bdg:ITW1FPL1858 {
     
     bdr:ITW1FPL1858  a      :Item ;
         :itemForInstance    bdr:MW1FPL1858 ;
-        :itemHasVolume      bdr:VLB31B20563A771E84 ;
+        :itemHasVolume      bdr:VLCB0F1DB452A8CA88 ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "3A|1858" .
 }
