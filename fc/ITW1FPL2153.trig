@@ -19,7 +19,6 @@ bdg:ITW1FPL2153 {
     
     bdr:ITW1FPL2153  a      :Item ;
         :itemForInstance    bdr:MW1FPL2153 ;
-        :itemHasVolume      bdr:VL36C757F03B7EB46F ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "3A|2153" .
 }

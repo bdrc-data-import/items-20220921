@@ -19,7 +19,6 @@ bdg:ITW1FPL2817 {
     
     bdr:ITW1FPL2817  a      :Item ;
         :itemForInstance    bdr:MW1FPL2817 ;
-        :itemHasVolume      bdr:VL3832A6788275B02E ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "3A|2817" .
 }

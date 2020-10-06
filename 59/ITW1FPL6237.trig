@@ -19,7 +19,6 @@ bdg:ITW1FPL6237 {
     
     bdr:ITW1FPL6237  a      :Item ;
         :itemForInstance    bdr:MW1FPL6237 ;
-        :itemHasVolume      bdr:VL24FC3A01FF0E2928 ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "2B|6237" .
 }

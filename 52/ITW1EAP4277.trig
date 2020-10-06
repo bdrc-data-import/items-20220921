@@ -19,7 +19,6 @@ bdg:ITW1EAP4277 {
     
     bdr:ITW1EAP4277  a      :Item ;
         :itemForInstance    bdr:MW1EAP4277 ;
-        :itemHasVolume      bdr:VL42413225B2085A0C ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "2D|4277" .
 }

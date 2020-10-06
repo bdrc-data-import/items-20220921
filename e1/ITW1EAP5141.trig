@@ -19,7 +19,6 @@ bdg:ITW1EAP5141 {
     
     bdr:ITW1EAP5141  a      :Item ;
         :itemForInstance    bdr:MW1EAP5141 ;
-        :itemHasVolume      bdr:VLED749B4C7B63A26E ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "2B|5141" .
 }

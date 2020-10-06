@@ -19,7 +19,6 @@ bdg:ITW1EAP8600 {
     
     bdr:ITW1EAP8600  a      :Item ;
         :itemForInstance    bdr:MW1EAP8600 ;
-        :itemHasVolume      bdr:VL454C4AE8960B999E ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "2A|8600" .
 }

@@ -19,7 +19,6 @@ bdg:ITW1EAP9477 {
     
     bdr:ITW1EAP9477  a      :Item ;
         :itemForInstance    bdr:MW1EAP9477 ;
-        :itemHasVolume      bdr:VLF349D22DE2E0B570 ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "2A|9477" .
 }

@@ -19,7 +19,6 @@ bdg:ITW1FPL3759 {
     
     bdr:ITW1FPL3759  a      :Item ;
         :itemForInstance    bdr:MW1FPL3759 ;
-        :itemHasVolume      bdr:VL6A019DE7F923130B ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "2D|3759" .
 }

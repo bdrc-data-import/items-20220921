@@ -19,7 +19,6 @@ bdg:ITW1FPL54 {
     
     bdr:ITW1FPL54  a        :Item ;
         :itemForInstance    bdr:MW1FPL54 ;
-        :itemHasVolume      bdr:VL8310A1777C5CF478 ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "3A|54" .
 }

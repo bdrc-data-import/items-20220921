@@ -19,7 +19,6 @@ bdg:ITW1EAP4503 {
     
     bdr:ITW1EAP4503  a      :Item ;
         :itemForInstance    bdr:MW1EAP4503 ;
-        :itemHasVolume      bdr:VLB3FAB7C79797E5BD ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "2D|4503" .
 }

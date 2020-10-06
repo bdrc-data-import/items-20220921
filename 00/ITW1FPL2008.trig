@@ -19,7 +19,6 @@ bdg:ITW1FPL2008 {
     
     bdr:ITW1FPL2008  a      :Item ;
         :itemForInstance    bdr:MW1FPL2008 ;
-        :itemHasVolume      bdr:VLED3C29B73CAF365D ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "3A|2008" .
 }

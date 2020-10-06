@@ -19,7 +19,6 @@ bdg:ITW1EAP8290 {
     
     bdr:ITW1EAP8290  a      :Item ;
         :itemForInstance    bdr:MW1EAP8290 ;
-        :itemHasVolume      bdr:VLE94588E245550C0C ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "2A|8290" .
 }

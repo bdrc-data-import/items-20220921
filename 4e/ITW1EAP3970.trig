@@ -19,7 +19,6 @@ bdg:ITW1EAP3970 {
     
     bdr:ITW1EAP3970  a      :Item ;
         :itemForInstance    bdr:MW1EAP3970 ;
-        :itemHasVolume      bdr:VL57942FE61DD85D2C ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "2D|3970" .
 }

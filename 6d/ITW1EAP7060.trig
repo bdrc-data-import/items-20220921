@@ -19,7 +19,6 @@ bdg:ITW1EAP7060 {
     
     bdr:ITW1EAP7060  a      :Item ;
         :itemForInstance    bdr:MW1EAP7060 ;
-        :itemHasVolume      bdr:VL45FB884C809CDF95 ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "2B|7060" .
 }

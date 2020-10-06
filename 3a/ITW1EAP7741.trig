@@ -19,7 +19,6 @@ bdg:ITW1EAP7741 {
     
     bdr:ITW1EAP7741  a      :Item ;
         :itemForInstance    bdr:MW1EAP7741 ;
-        :itemHasVolume      bdr:VL05852CCB45467625 ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "2A|7741" .
 }

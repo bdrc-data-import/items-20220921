@@ -19,7 +19,6 @@ bdg:ITW1EAP8507 {
     
     bdr:ITW1EAP8507  a      :Item ;
         :itemForInstance    bdr:MW1EAP8507 ;
-        :itemHasVolume      bdr:VLAEFBA6F0077CACCC ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "2A|8507" .
 }

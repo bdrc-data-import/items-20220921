@@ -19,7 +19,6 @@ bdg:ITW1FPL4343 {
     
     bdr:ITW1FPL4343  a      :Item ;
         :itemForInstance    bdr:MW1FPL4343 ;
-        :itemHasVolume      bdr:VL39071908C1468FA9 ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "2D|4343" .
 }

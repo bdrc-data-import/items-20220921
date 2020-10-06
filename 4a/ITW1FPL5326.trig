@@ -19,7 +19,6 @@ bdg:ITW1FPL5326 {
     
     bdr:ITW1FPL5326  a      :Item ;
         :itemForInstance    bdr:MW1FPL5326 ;
-        :itemHasVolume      bdr:VLEE9537668A5935B9 ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "2B|5326" .
 }

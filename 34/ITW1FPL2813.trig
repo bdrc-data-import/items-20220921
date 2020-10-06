@@ -19,7 +19,6 @@ bdg:ITW1FPL2813 {
     
     bdr:ITW1FPL2813  a      :Item ;
         :itemForInstance    bdr:MW1FPL2813 ;
-        :itemHasVolume      bdr:VL82AAE49F4C3E2431 ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "3A|2813" .
 }

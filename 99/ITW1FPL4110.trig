@@ -19,7 +19,6 @@ bdg:ITW1FPL4110 {
     
     bdr:ITW1FPL4110  a      :Item ;
         :itemForInstance    bdr:MW1FPL4110 ;
-        :itemHasVolume      bdr:VLA9CF67B24A1E2B7E ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "2D|4110" .
 }

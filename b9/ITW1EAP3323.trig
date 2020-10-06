@@ -19,7 +19,6 @@ bdg:ITW1EAP3323 {
     
     bdr:ITW1EAP3323  a      :Item ;
         :itemForInstance    bdr:MW1EAP3323 ;
-        :itemHasVolume      bdr:VL79AAAC23174DCA3D ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "3B|3323" .
 }

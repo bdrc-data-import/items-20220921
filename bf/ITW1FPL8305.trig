@@ -19,7 +19,6 @@ bdg:ITW1FPL8305 {
     
     bdr:ITW1FPL8305  a      :Item ;
         :itemForInstance    bdr:MW1FPL8305 ;
-        :itemHasVolume      bdr:VLD6E1AF16077EAD78 ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "2A|8305" .
 }

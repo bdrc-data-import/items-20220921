@@ -19,7 +19,6 @@ bdg:ITW1FPL523 {
     
     bdr:ITW1FPL523  a       :Item ;
         :itemForInstance    bdr:MW1FPL523 ;
-        :itemHasVolume      bdr:VL3297E6E03029D54E ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "3A|523" .
 }

@@ -19,7 +19,6 @@ bdg:ITW1FPL300 {
     
     bdr:ITW1FPL300  a       :Item ;
         :itemForInstance    bdr:MW1FPL300 ;
-        :itemHasVolume      bdr:VLBED1C333DF50BAB6 ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "3A|300" .
 }

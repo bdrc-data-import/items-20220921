@@ -19,7 +19,6 @@ bdg:ITW1EAP5159 {
     
     bdr:ITW1EAP5159  a      :Item ;
         :itemForInstance    bdr:MW1EAP5159 ;
-        :itemHasVolume      bdr:VLBC0BD8ACC9B98F1A ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "2B|5159" .
 }

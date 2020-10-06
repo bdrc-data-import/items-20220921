@@ -19,7 +19,6 @@ bdg:ITW1FPL7469 {
     
     bdr:ITW1FPL7469  a      :Item ;
         :itemForInstance    bdr:MW1FPL7469 ;
-        :itemHasVolume      bdr:VL338C8A8E79EDCAB5 ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "2A|7469" .
 }

@@ -19,7 +19,6 @@ bdg:ITW1FPL5315 {
     
     bdr:ITW1FPL5315  a      :Item ;
         :itemForInstance    bdr:MW1FPL5315 ;
-        :itemHasVolume      bdr:VL705A538D2A1F955C ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "2B|5315" .
 }

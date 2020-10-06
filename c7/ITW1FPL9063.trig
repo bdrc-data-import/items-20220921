@@ -19,7 +19,6 @@ bdg:ITW1FPL9063 {
     
     bdr:ITW1FPL9063  a      :Item ;
         :itemForInstance    bdr:MW1FPL9063 ;
-        :itemHasVolume      bdr:VLDF8E0A4809F9458B ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "2A|9063" .
 }

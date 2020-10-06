@@ -19,7 +19,6 @@ bdg:ITW1EAP2435 {
     
     bdr:ITW1EAP2435  a      :Item ;
         :itemForInstance    bdr:MW1EAP2435 ;
-        :itemHasVolume      bdr:VLFD943B89FE6763FD ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "3A|2435" .
 }

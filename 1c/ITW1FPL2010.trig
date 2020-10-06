@@ -19,7 +19,6 @@ bdg:ITW1FPL2010 {
     
     bdr:ITW1FPL2010  a      :Item ;
         :itemForInstance    bdr:MW1FPL2010 ;
-        :itemHasVolume      bdr:VLD1650AEBB8F404C7 ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "3A|2010" .
 }

@@ -19,7 +19,6 @@ bdg:ITW1FPL9105 {
     
     bdr:ITW1FPL9105  a      :Item ;
         :itemForInstance    bdr:MW1FPL9105 ;
-        :itemHasVolume      bdr:VLC41D8777E8647174 ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "2A|9105" .
 }

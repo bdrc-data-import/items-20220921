@@ -19,7 +19,6 @@ bdg:ITW1EAP3840 {
     
     bdr:ITW1EAP3840  a      :Item ;
         :itemForInstance    bdr:MW1EAP3840 ;
-        :itemHasVolume      bdr:VL7BE7E30AC2A78BAB ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "2D|3840" .
 }

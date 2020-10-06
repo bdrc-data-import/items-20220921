@@ -19,7 +19,6 @@ bdg:ITW1FPL10055 {
     
     bdr:ITW1FPL10055  a     :Item ;
         :itemForInstance    bdr:MW1FPL10055 ;
-        :itemHasVolume      bdr:VLA8C3E3C059262757 ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "GF|10055" .
 }

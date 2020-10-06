@@ -19,7 +19,6 @@ bdg:ITW1EAP4593 {
     
     bdr:ITW1EAP4593  a      :Item ;
         :itemForInstance    bdr:MW1EAP4593 ;
-        :itemHasVolume      bdr:VLE66182BC89218A64 ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "2D|4593" .
 }

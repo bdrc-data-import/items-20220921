@@ -19,7 +19,6 @@ bdg:ITW1EAP9569 {
     
     bdr:ITW1EAP9569  a      :Item ;
         :itemForInstance    bdr:MW1EAP9569 ;
-        :itemHasVolume      bdr:VL959AE6D5ACD11FEF ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "2A|9569" .
 }

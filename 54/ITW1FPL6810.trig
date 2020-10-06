@@ -19,7 +19,6 @@ bdg:ITW1FPL6810 {
     
     bdr:ITW1FPL6810  a      :Item ;
         :itemForInstance    bdr:MW1FPL6810 ;
-        :itemHasVolume      bdr:VLD2387DDF4E92DEF3 ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "2B|6810" .
 }

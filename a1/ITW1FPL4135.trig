@@ -19,7 +19,6 @@ bdg:ITW1FPL4135 {
     
     bdr:ITW1FPL4135  a      :Item ;
         :itemForInstance    bdr:MW1FPL4135 ;
-        :itemHasVolume      bdr:VL11CE36C4C005F0D8 ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "2D|4135" .
 }

@@ -19,7 +19,6 @@ bdg:ITW1FPL5895 {
     
     bdr:ITW1FPL5895  a      :Item ;
         :itemForInstance    bdr:MW1FPL5895 ;
-        :itemHasVolume      bdr:VLED38F8018686676B ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "2B|5895" .
 }

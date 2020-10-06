@@ -19,7 +19,6 @@ bdg:ITW1FPL6869 {
     
     bdr:ITW1FPL6869  a      :Item ;
         :itemForInstance    bdr:MW1FPL6869 ;
-        :itemHasVolume      bdr:VLED6549A10C465648 ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "2B|6869" .
 }

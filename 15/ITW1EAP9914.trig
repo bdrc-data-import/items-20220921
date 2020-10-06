@@ -19,7 +19,6 @@ bdg:ITW1EAP9914 {
     
     bdr:ITW1EAP9914  a      :Item ;
         :itemForInstance    bdr:MW1EAP9914 ;
-        :itemHasVolume      bdr:VL8945C35A2AD0507B ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "2A|9914" .
 }

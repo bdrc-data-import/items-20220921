@@ -19,7 +19,6 @@ bdg:ITW1FPL2680 {
     
     bdr:ITW1FPL2680  a      :Item ;
         :itemForInstance    bdr:MW1FPL2680 ;
-        :itemHasVolume      bdr:VLAE92AE261FF4E143 ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "3A|2680" .
 }

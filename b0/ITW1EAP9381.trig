@@ -19,7 +19,6 @@ bdg:ITW1EAP9381 {
     
     bdr:ITW1EAP9381  a      :Item ;
         :itemForInstance    bdr:MW1EAP9381 ;
-        :itemHasVolume      bdr:VL416DFE86DE457EA5 ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "2A|9381" .
 }

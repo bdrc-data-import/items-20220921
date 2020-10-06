@@ -19,7 +19,6 @@ bdg:ITW1EAP10615 {
     
     bdr:ITW1EAP10615  a     :Item ;
         :itemForInstance    bdr:MW1EAP10615 ;
-        :itemHasVolume      bdr:VL081FB68142A977ED ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "GF|10615" .
 }

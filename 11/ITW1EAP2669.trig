@@ -19,7 +19,6 @@ bdg:ITW1EAP2669 {
     
     bdr:ITW1EAP2669  a      :Item ;
         :itemForInstance    bdr:MW1EAP2669 ;
-        :itemHasVolume      bdr:VLB36F0935240187C3 ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "3A|2669" .
 }

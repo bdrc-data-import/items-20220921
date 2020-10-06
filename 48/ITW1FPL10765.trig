@@ -19,7 +19,6 @@ bdg:ITW1FPL10765 {
     
     bdr:ITW1FPL10765  a     :Item ;
         :itemForInstance    bdr:MW1FPL10765 ;
-        :itemHasVolume      bdr:VLC29669C91C2D24FB ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "GF|10765" .
 }

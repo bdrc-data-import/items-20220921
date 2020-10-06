@@ -19,7 +19,6 @@ bdg:ITW1FPL1211 {
     
     bdr:ITW1FPL1211  a      :Item ;
         :itemForInstance    bdr:MW1FPL1211 ;
-        :itemHasVolume      bdr:VL0DFDF558A9310385 ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "3A|1211" .
 }

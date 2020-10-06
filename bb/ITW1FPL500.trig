@@ -19,7 +19,6 @@ bdg:ITW1FPL500 {
     
     bdr:ITW1FPL500  a       :Item ;
         :itemForInstance    bdr:MW1FPL500 ;
-        :itemHasVolume      bdr:VLBB872DE4AD2446AE ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "3A|500" .
 }

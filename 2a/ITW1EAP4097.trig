@@ -19,7 +19,6 @@ bdg:ITW1EAP4097 {
     
     bdr:ITW1EAP4097  a      :Item ;
         :itemForInstance    bdr:MW1EAP4097 ;
-        :itemHasVolume      bdr:VLA63A4DE2F2ED737C ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "2D|4097" .
 }

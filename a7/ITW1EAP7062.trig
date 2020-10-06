@@ -19,7 +19,6 @@ bdg:ITW1EAP7062 {
     
     bdr:ITW1EAP7062  a      :Item ;
         :itemForInstance    bdr:MW1EAP7062 ;
-        :itemHasVolume      bdr:VL3E1EB67BE77416EB ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "2B|7062" .
 }

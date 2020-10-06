@@ -19,7 +19,6 @@ bdg:ITW1FPL7614 {
     
     bdr:ITW1FPL7614  a      :Item ;
         :itemForInstance    bdr:MW1FPL7614 ;
-        :itemHasVolume      bdr:VL7610ECC8DA8806EB ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "2A|7614" .
 }

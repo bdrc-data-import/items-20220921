@@ -19,7 +19,6 @@ bdg:ITW1EAP2034 {
     
     bdr:ITW1EAP2034  a      :Item ;
         :itemForInstance    bdr:MW1EAP2034 ;
-        :itemHasVolume      bdr:VL37288B85F65444A1 ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "3A|2034" .
 }

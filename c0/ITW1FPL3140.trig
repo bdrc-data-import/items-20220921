@@ -19,7 +19,6 @@ bdg:ITW1FPL3140 {
     
     bdr:ITW1FPL3140  a      :Item ;
         :itemForInstance    bdr:MW1FPL3140 ;
-        :itemHasVolume      bdr:VL4FF01EB512DF31B2 ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "3B|3140" .
 }

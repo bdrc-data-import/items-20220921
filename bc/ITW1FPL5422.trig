@@ -19,7 +19,6 @@ bdg:ITW1FPL5422 {
     
     bdr:ITW1FPL5422  a      :Item ;
         :itemForInstance    bdr:MW1FPL5422 ;
-        :itemHasVolume      bdr:VL322C538CB7BF6E7C ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "2B|5422" .
 }

@@ -19,7 +19,6 @@ bdg:ITW1EAP8578 {
     
     bdr:ITW1EAP8578  a      :Item ;
         :itemForInstance    bdr:MW1EAP8578 ;
-        :itemHasVolume      bdr:VLA3239D1B620BDD1D ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "2A|8578" .
 }

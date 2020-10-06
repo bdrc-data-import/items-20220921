@@ -19,7 +19,6 @@ bdg:ITW1EAP9654 {
     
     bdr:ITW1EAP9654  a      :Item ;
         :itemForInstance    bdr:MW1EAP9654 ;
-        :itemHasVolume      bdr:VL9D6817A5B2F21F40 ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "2A|9654" .
 }

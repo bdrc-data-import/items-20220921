@@ -19,7 +19,6 @@ bdg:ITW1FPL6021 {
     
     bdr:ITW1FPL6021  a      :Item ;
         :itemForInstance    bdr:MW1FPL6021 ;
-        :itemHasVolume      bdr:VLDA9F339904CE3133 ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "2B|6021" .
 }

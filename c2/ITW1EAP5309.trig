@@ -19,7 +19,6 @@ bdg:ITW1EAP5309 {
     
     bdr:ITW1EAP5309  a      :Item ;
         :itemForInstance    bdr:MW1EAP5309 ;
-        :itemHasVolume      bdr:VL9724CB860F49A32B ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "2B|5309" .
 }

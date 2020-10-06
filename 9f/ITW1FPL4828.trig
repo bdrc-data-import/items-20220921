@@ -19,7 +19,6 @@ bdg:ITW1FPL4828 {
     
     bdr:ITW1FPL4828  a      :Item ;
         :itemForInstance    bdr:MW1FPL4828 ;
-        :itemHasVolume      bdr:VL20BC06DBBB19AD2F ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "2B|4828" .
 }

@@ -19,7 +19,6 @@ bdg:ITW1EAP4632 {
     
     bdr:ITW1EAP4632  a      :Item ;
         :itemForInstance    bdr:MW1EAP4632 ;
-        :itemHasVolume      bdr:VL51EE0E34234020EC ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "2B|4632" .
 }

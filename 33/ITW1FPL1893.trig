@@ -19,7 +19,6 @@ bdg:ITW1FPL1893 {
     
     bdr:ITW1FPL1893  a      :Item ;
         :itemForInstance    bdr:MW1FPL1893 ;
-        :itemHasVolume      bdr:VL71504B1B7785512D ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "3A|1893" .
 }

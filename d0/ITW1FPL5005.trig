@@ -19,7 +19,6 @@ bdg:ITW1FPL5005 {
     
     bdr:ITW1FPL5005  a      :Item ;
         :itemForInstance    bdr:MW1FPL5005 ;
-        :itemHasVolume      bdr:VLB69EDC99E2933E2C ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "2B|5005" .
 }

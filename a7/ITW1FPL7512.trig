@@ -19,7 +19,6 @@ bdg:ITW1FPL7512 {
     
     bdr:ITW1FPL7512  a      :Item ;
         :itemForInstance    bdr:MW1FPL7512 ;
-        :itemHasVolume      bdr:VL380B50CA4617103D ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "2A|7512" .
 }

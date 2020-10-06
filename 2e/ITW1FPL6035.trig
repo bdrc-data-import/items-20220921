@@ -19,7 +19,6 @@ bdg:ITW1FPL6035 {
     
     bdr:ITW1FPL6035  a      :Item ;
         :itemForInstance    bdr:MW1FPL6035 ;
-        :itemHasVolume      bdr:VLE05A2EC2174E6F12 ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "2B|6035" .
 }

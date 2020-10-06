@@ -19,7 +19,6 @@ bdg:ITW1EAP8025 {
     
     bdr:ITW1EAP8025  a      :Item ;
         :itemForInstance    bdr:MW1EAP8025 ;
-        :itemHasVolume      bdr:VLD8B147D7425D869A ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "2A|8025" .
 }

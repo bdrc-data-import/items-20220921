@@ -19,7 +19,6 @@ bdg:ITW1FPL1470 {
     
     bdr:ITW1FPL1470  a      :Item ;
         :itemForInstance    bdr:MW1FPL1470 ;
-        :itemHasVolume      bdr:VL390C32DA684A5716 ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "|1470" .
 }

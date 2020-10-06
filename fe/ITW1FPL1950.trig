@@ -19,7 +19,6 @@ bdg:ITW1FPL1950 {
     
     bdr:ITW1FPL1950  a      :Item ;
         :itemForInstance    bdr:MW1FPL1950 ;
-        :itemHasVolume      bdr:VLF2A3018F913414CF ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "3A|1950" .
 }

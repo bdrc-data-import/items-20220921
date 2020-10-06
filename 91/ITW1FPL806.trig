@@ -19,7 +19,6 @@ bdg:ITW1FPL806 {
     
     bdr:ITW1FPL806  a       :Item ;
         :itemForInstance    bdr:MW1FPL806 ;
-        :itemHasVolume      bdr:VLB091D56FA1D6CB1E ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "3A|806" .
 }

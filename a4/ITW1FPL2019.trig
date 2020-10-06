@@ -19,7 +19,6 @@ bdg:ITW1FPL2019 {
     
     bdr:ITW1FPL2019  a      :Item ;
         :itemForInstance    bdr:MW1FPL2019 ;
-        :itemHasVolume      bdr:VL076078B46597DFFD ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "3A|2019" .
 }

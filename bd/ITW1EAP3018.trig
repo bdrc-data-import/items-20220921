@@ -19,7 +19,6 @@ bdg:ITW1EAP3018 {
     
     bdr:ITW1EAP3018  a      :Item ;
         :itemForInstance    bdr:MW1EAP3018 ;
-        :itemHasVolume      bdr:VLCF91CD4495C9BF1F ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "3B|3018" .
 }

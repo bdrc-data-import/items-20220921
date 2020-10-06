@@ -19,7 +19,6 @@ bdg:ITW1EAP4371 {
     
     bdr:ITW1EAP4371  a      :Item ;
         :itemForInstance    bdr:MW1EAP4371 ;
-        :itemHasVolume      bdr:VLB0147E6929AC686B ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "2D|4371" .
 }

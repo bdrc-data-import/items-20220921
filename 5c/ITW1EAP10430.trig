@@ -19,7 +19,6 @@ bdg:ITW1EAP10430 {
     
     bdr:ITW1EAP10430  a     :Item ;
         :itemForInstance    bdr:MW1EAP10430 ;
-        :itemHasVolume      bdr:VLC3C45BDF233C24BB ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "GF|10430" .
 }

@@ -19,7 +19,6 @@ bdg:ITW1FPL488 {
     
     bdr:ITW1FPL488  a       :Item ;
         :itemForInstance    bdr:MW1FPL488 ;
-        :itemHasVolume      bdr:VLED9AB31C6D109464 ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "3A|488" .
 }

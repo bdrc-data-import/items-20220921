@@ -19,7 +19,6 @@ bdg:ITW1FPL650 {
     
     bdr:ITW1FPL650  a       :Item ;
         :itemForInstance    bdr:MW1FPL650 ;
-        :itemHasVolume      bdr:VLECAA329C5C30410B ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "3A|650" .
 }

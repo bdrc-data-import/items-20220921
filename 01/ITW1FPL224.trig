@@ -19,7 +19,6 @@ bdg:ITW1FPL224 {
     
     bdr:ITW1FPL224  a       :Item ;
         :itemForInstance    bdr:MW1FPL224 ;
-        :itemHasVolume      bdr:VL2A8E689222D1F3F9 ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "3A|224" .
 }

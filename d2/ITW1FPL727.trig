@@ -19,7 +19,6 @@ bdg:ITW1FPL727 {
     
     bdr:ITW1FPL727  a       :Item ;
         :itemForInstance    bdr:MW1FPL727 ;
-        :itemHasVolume      bdr:VLC186505F2E0481A7 ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "3A|727" .
 }

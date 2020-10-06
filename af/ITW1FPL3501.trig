@@ -19,7 +19,6 @@ bdg:ITW1FPL3501 {
     
     bdr:ITW1FPL3501  a      :Item ;
         :itemForInstance    bdr:MW1FPL3501 ;
-        :itemHasVolume      bdr:VL7620D280C22CF280 ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "3B|3501" .
 }

@@ -19,7 +19,6 @@ bdg:ITW1EAP6794 {
     
     bdr:ITW1EAP6794  a      :Item ;
         :itemForInstance    bdr:MW1EAP6794 ;
-        :itemHasVolume      bdr:VL851C98F3D4280CE8 ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "2B|6794" .
 }

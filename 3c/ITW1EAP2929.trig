@@ -19,7 +19,6 @@ bdg:ITW1EAP2929 {
     
     bdr:ITW1EAP2929  a      :Item ;
         :itemForInstance    bdr:MW1EAP2929 ;
-        :itemHasVolume      bdr:VL3BF2CC557D4E5E9B ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "3A|2929" .
 }

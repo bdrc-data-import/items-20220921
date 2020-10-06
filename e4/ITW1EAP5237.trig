@@ -19,7 +19,6 @@ bdg:ITW1EAP5237 {
     
     bdr:ITW1EAP5237  a      :Item ;
         :itemForInstance    bdr:MW1EAP5237 ;
-        :itemHasVolume      bdr:VL41211F4FD07A77D9 ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "2B|5237" .
 }

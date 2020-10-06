@@ -19,7 +19,6 @@ bdg:ITW1FPL2414 {
     
     bdr:ITW1FPL2414  a      :Item ;
         :itemForInstance    bdr:MW1FPL2414 ;
-        :itemHasVolume      bdr:VL329B67FA57D48200 ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "3A|2414" .
 }

@@ -19,7 +19,6 @@ bdg:ITW1EAP2808 {
     
     bdr:ITW1EAP2808  a      :Item ;
         :itemForInstance    bdr:MW1EAP2808 ;
-        :itemHasVolume      bdr:VL8C1107D000D6DF2D ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "3A|2808" .
 }

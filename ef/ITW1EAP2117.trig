@@ -19,7 +19,6 @@ bdg:ITW1EAP2117 {
     
     bdr:ITW1EAP2117  a      :Item ;
         :itemForInstance    bdr:MW1EAP2117 ;
-        :itemHasVolume      bdr:VLCA10BC0A281FE672 ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "3A|2117" .
 }

@@ -19,7 +19,6 @@ bdg:ITW1FPL5790 {
     
     bdr:ITW1FPL5790  a      :Item ;
         :itemForInstance    bdr:MW1FPL5790 ;
-        :itemHasVolume      bdr:VLF2A4F2507DE03DDC ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "2B|5790" .
 }

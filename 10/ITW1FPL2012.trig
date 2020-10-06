@@ -19,7 +19,6 @@ bdg:ITW1FPL2012 {
     
     bdr:ITW1FPL2012  a      :Item ;
         :itemForInstance    bdr:MW1FPL2012 ;
-        :itemHasVolume      bdr:VL460E98695CD0DAEE ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "3A|2012" .
 }

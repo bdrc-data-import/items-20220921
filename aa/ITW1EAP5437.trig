@@ -19,7 +19,6 @@ bdg:ITW1EAP5437 {
     
     bdr:ITW1EAP5437  a      :Item ;
         :itemForInstance    bdr:MW1EAP5437 ;
-        :itemHasVolume      bdr:VLFAA95FB75FD144BA ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "2B|5437" .
 }

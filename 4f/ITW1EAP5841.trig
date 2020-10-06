@@ -19,7 +19,6 @@ bdg:ITW1EAP5841 {
     
     bdr:ITW1EAP5841  a      :Item ;
         :itemForInstance    bdr:MW1EAP5841 ;
-        :itemHasVolume      bdr:VL1F08450B6046E331 ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "2B|5841" .
 }

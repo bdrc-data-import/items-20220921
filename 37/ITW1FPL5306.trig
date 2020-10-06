@@ -19,7 +19,6 @@ bdg:ITW1FPL5306 {
     
     bdr:ITW1FPL5306  a      :Item ;
         :itemForInstance    bdr:MW1FPL5306 ;
-        :itemHasVolume      bdr:VL220CFC426475E57E ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "2B|5306" .
 }

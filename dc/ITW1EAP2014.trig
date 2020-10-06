@@ -19,7 +19,6 @@ bdg:ITW1EAP2014 {
     
     bdr:ITW1EAP2014  a      :Item ;
         :itemForInstance    bdr:MW1EAP2014 ;
-        :itemHasVolume      bdr:VL61DE4F209D531A46 ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "3A|2014" .
 }

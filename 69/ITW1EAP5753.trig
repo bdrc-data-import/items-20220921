@@ -19,7 +19,6 @@ bdg:ITW1EAP5753 {
     
     bdr:ITW1EAP5753  a      :Item ;
         :itemForInstance    bdr:MW1EAP5753 ;
-        :itemHasVolume      bdr:VLCD49E8470526F329 ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "2B|5753" .
 }

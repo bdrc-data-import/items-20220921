@@ -19,7 +19,6 @@ bdg:ITW1FPL3994 {
     
     bdr:ITW1FPL3994  a      :Item ;
         :itemForInstance    bdr:MW1FPL3994 ;
-        :itemHasVolume      bdr:VL401DDDF935496F36 ;
         :itemLibrary        bdr:G1TLMFPL000001 ;
         :itemShelf          "2D|3994" .
 }
