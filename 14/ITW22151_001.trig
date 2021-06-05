@@ -16,5 +16,5 @@ bdg:ITW22151_001 {
         :itemCopies         "1" ;
         :itemForInstance    bdr:MW22151 ;
         :itemLibrary        bdr:G1TLMTGA000001 ;
-        :itemShelf          "ཇ|ཁ|༤||000194" , "ཇ|ཁ|༤||000195" .
+        :itemShelf          "ཇ|ཁ|༤||000194" .
 }
